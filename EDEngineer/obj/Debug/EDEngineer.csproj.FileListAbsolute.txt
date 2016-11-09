@@ -45,8 +45,6 @@ D:\Desarrollo\Visual Studio 2015\EDEngineer_Spanish_Version\EDEngineer\obj\Debug
 D:\Desarrollo\Visual Studio 2015\EDEngineer_Spanish_Version\EDEngineer\obj\Debug\EDEngineer.pdb
 D:\Desarrollo\Visual Studio 2015\EDEngineer_Spanish_Version\EDEngineer\bin\Debug\Resources\Images\elite-dangerous-clean.png
 D:\Desarrollo\Visual Studio 2015\EDEngineer_Spanish_Version\EDEngineer\bin\Debug\Resources\Dll\System.Runtime.dll
-D:\Desarrollo\Visual Studio 2015\EDEngineer_Spanish_Version\EDEngineer\bin\Debug\EDEngineer.exe.manifest
-D:\Desarrollo\Visual Studio 2015\EDEngineer_Spanish_Version\EDEngineer\bin\Debug\EDEngineer.application
 D:\Desarrollo\Visual Studio 2015\EDEngineer_Spanish_Version\EDEngineer\bin\Debug\EDEngineer.exe
 D:\Desarrollo\Visual Studio 2015\EDEngineer_Spanish_Version\EDEngineer\bin\Debug\EDEngineer.pdb
 D:\Desarrollo\Visual Studio 2015\EDEngineer_Spanish_Version\EDEngineer\bin\Debug\MahApps.Metro.dll
@@ -62,7 +60,6 @@ D:\Desarrollo\Visual Studio 2015\EDEngineer_Spanish_Version\EDEngineer\bin\Debug
 D:\Desarrollo\Visual Studio 2015\EDEngineer_Spanish_Version\EDEngineer\bin\Debug\Newtonsoft.Json.xml
 D:\Desarrollo\Visual Studio 2015\EDEngineer_Spanish_Version\EDEngineer\bin\Debug\NodaTime.xml
 D:\Desarrollo\Visual Studio 2015\EDEngineer_Spanish_Version\EDEngineer\bin\Debug\NodaTime.Serialization.JsonNet.xml
-D:\Desarrollo\Visual Studio 2015\EDEngineer_Spanish_Version\EDEngineer\obj\Debug\EDEngineer.csprojResolveAssemblyReference.cache
 D:\Desarrollo\Visual Studio 2015\EDEngineer_Spanish_Version\EDEngineer\obj\Debug\ErrorWindow.baml
 D:\Desarrollo\Visual Studio 2015\EDEngineer_Spanish_Version\EDEngineer\obj\Debug\MainWindow.baml
 D:\Desarrollo\Visual Studio 2015\EDEngineer_Spanish_Version\EDEngineer\obj\Debug\ReleaseNotesWindow.baml
@@ -79,6 +76,8 @@ D:\Desarrollo\Visual Studio 2015\EDEngineer_Spanish_Version\EDEngineer\obj\Debug
 D:\Desarrollo\Visual Studio 2015\EDEngineer_Spanish_Version\EDEngineer\obj\Debug\EDEngineer.g.resources
 D:\Desarrollo\Visual Studio 2015\EDEngineer_Spanish_Version\EDEngineer\obj\Debug\EDEngineer.Properties.Resources.resources
 D:\Desarrollo\Visual Studio 2015\EDEngineer_Spanish_Version\EDEngineer\obj\Debug\EDEngineer.csproj.GenerateResource.Cache
+D:\Desarrollo\Visual Studio 2015\EDEngineer_Spanish_Version\EDEngineer\bin\Debug\EDEngineer.exe.manifest
+D:\Desarrollo\Visual Studio 2015\EDEngineer_Spanish_Version\EDEngineer\bin\Debug\EDEngineer.application
 D:\Desarrollo\Visual Studio 2015\EDEngineer_Spanish_Version\EDEngineer\obj\Debug\EDEngineer.TrustInfo.xml
 D:\Desarrollo\Visual Studio 2015\EDEngineer_Spanish_Version\EDEngineer\obj\Debug\EDEngineer.exe.manifest
 D:\Desarrollo\Visual Studio 2015\EDEngineer_Spanish_Version\EDEngineer\obj\Debug\EDEngineer.application

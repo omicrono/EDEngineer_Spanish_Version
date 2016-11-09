@@ -8,7 +8,7 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="https://raw.githubusercontent.com/msarilar/EDEngineer/master/EDEngineer/releases/EDEngineer.application" />
+    <deploymentProvider codebase="https://raw.githubusercontent.com/omicrono/EDEngineer_Spanish_Version/master/EDEngineer/releases/EDEngineer.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.6.1" profile="Full" supportedRuntime="4.0.30319" />
@@ -21,7 +21,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>OjCVUjlFEA84JkFi+m2Zc4h2mEBtpWjcZQ5b7EFw97Y=</dsig:DigestValue>
+        <dsig:DigestValue>hAjBoAMKC7KdKbtmSlexk58f/XFjdGEhtT0MSGe5qJ0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

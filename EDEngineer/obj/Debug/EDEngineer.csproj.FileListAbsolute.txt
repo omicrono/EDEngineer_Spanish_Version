@@ -81,3 +81,4 @@ D:\Desarrollo\Visual Studio 2015\EDEngineer_Spanish_Version\EDEngineer\bin\Debug
 D:\Desarrollo\Visual Studio 2015\EDEngineer_Spanish_Version\EDEngineer\obj\Debug\EDEngineer.TrustInfo.xml
 D:\Desarrollo\Visual Studio 2015\EDEngineer_Spanish_Version\EDEngineer\obj\Debug\EDEngineer.exe.manifest
 D:\Desarrollo\Visual Studio 2015\EDEngineer_Spanish_Version\EDEngineer\obj\Debug\EDEngineer.application
+D:\Desarrollo\Visual Studio 2015\EDEngineer_Spanish_Version\EDEngineer\obj\Debug\EDEngineer.csprojResolveAssemblyReference.cache

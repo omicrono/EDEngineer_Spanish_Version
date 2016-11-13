@@ -1,3 +1,11 @@
+# ATTENTION
+
+### This application has been closed, the original application already has multilanguage and is 100% translated, can be found in:
+### https://github.com/msarilar/EDEngineer
+
+## Thank you very much to CMDR HG  for the incredible work  :)
+
+
 # EDEngineer
 
 EDEngineer is a basic app I've written to track materials, data and cargo acquired in Elite Dangerous. That way, we can also track progress of blueprints available from the Engineers.
